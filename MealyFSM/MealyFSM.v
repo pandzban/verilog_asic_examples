@@ -1,5 +1,5 @@
-  	    //                                              //
-  	  //                 Adam Gawlik                  //
+        //                                              //
+      //                 Adam Gawlik                  //
     //  AGH University of Science and Technology    //
   //                 Mealy's FSM                  //
 //                                              //
