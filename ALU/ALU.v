@@ -1,8 +1,8 @@
-  	    //												//
-  	  //			 	 Adam Gawlik			  	  //
-    //	AGH University of Science and Technology	//
-  //				Arithmetic Logic Unit		  //
-//												//
+  	//						//
+      //		Adam Gawlik		      //
+    //	AGH University of Science and Technology    //
+  //             Arithmetic-Logic Unit		  //
+//						//
 
 module ALU( input [31:0] A, B,
 			input [3:0] ALUControl,
