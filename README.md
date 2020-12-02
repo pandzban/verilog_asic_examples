@@ -7,7 +7,7 @@ Schematics of projects:
 
 ALU
 
-![schematic](https://i.postimg.cc/xdyLZC8z/schematic.gif)
+![schematic](https://i.postimg.cc/XYyvqz0N/schematic.png)
 
 Counter
 
