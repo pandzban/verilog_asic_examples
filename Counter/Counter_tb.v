@@ -1,8 +1,8 @@
-  	    //												//
-  	  //			 	 Adam Gawlik			  	  //
-    //	AGH University of Science and Technology	//
-  //              Synchronous Counter tb		  //
-//												//
+  	//						//
+      //		Adam Gawlik		      //
+    //	AGH University of Science and Technology    //
+  //              Synchronous Counter 		  //
+//						//
 
 `include "Counter.v"		// include front-end/RTL
 
