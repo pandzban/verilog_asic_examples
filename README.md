@@ -16,3 +16,5 @@ Counter
 MealyFSM
 
 ![schematic](https://i.postimg.cc/ZqRV6pVq/mealy.png)
+
+![diagram](https://i.postimg.cc/HkpgDvsP/diag.png)
