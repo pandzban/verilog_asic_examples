@@ -1,7 +1,7 @@
-  	    //                                              //
-  	  //                 Adam Gawlik                  //
+        //                                              //
+      //                 Adam Gawlik                  //
     //  AGH University of Science and Technology    //
-  //                 Mealy's FSM tb               //
+  //                Mealy's FSM tb                //
 //                                              //
 
 `include "MealyFSM.v"		// include front-end/RTL
