@@ -1,8 +1,8 @@
-  	    //												//
-  	  //			 	 Adam Gawlik			  	  //
-    //	AGH University of Science and Technology	//
-  //              Synchronous Counter 			  //
-//												//
+  	//						//
+      //		Adam Gawlik		      //
+    //	AGH University of Science and Technology    //
+  //              Synchronous Counter 		  //
+//						//
 
 module Counter #(parameter CNT_WIDTH=4) (	// counter register's width param
 		   	input wire Clk,
