@@ -1,8 +1,8 @@
-  	    //												//
-  	  //			 	 Adam Gawlik			  	  //
-    //	AGH University of Science and Technology	//
-  //			Arithmetic-Logic Unit tb	 	  //
-//												//
+  	//						//
+      //		Adam Gawlik		      //
+    //	AGH University of Science and Technology    //
+  //           Arithmetic-Logic Unit tb		  //
+//						//
 
 `include "ALU.v"		// include front-end/rtl
 
